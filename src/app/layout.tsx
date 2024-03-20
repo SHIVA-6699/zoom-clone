@@ -23,8 +23,8 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <Navbar/>
-        <main className="max-w-5xl mx-auto p-5">
-
+        <main className="max-w-5xl mx-auto p-5">  
+        <p>SHIVA</p>
         {children}
         </main>
         </body>
